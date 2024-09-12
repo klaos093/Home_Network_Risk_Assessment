@@ -1,6 +1,6 @@
 # Home Network Risk Assessment
 
-![image](https://github.com/user-attachments/assets/7c5bc42c-4dc2-4aab-8726-1e2beec20b75)
+![assasment](https://github.com/user-attachments/assets/c9e0ed7e-8ef2-44e6-a165-e4a5a2a926d4)
 
 ## Overview
 This project involves performing a risk assessment on a home network. The goal is to identify potential vulnerabilities and offer actionable recommendations to enhance network security.
